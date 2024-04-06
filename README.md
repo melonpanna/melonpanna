@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <h3 align="center">Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/melonpanna">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonpanna&layout=compact&show_icons=true&show_owner=true&hide_title=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonpanna&layout=compact&show_icons=true&show_owner=true&hide_title=true&exclude_repo=visiblehand" />
   </a>
 </p>
