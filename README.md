@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84.svg?style=for-the-badge&logo=android&logoColor=black" />&nbsp
 </div>
 <br/>
 </p>
