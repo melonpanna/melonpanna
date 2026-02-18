@@ -32,9 +32,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
 </div>
 <br/>
-<h3 align="center">Most Used Languages</h3>
-<p align="center">
-  <a href="https://github.com/melonpanna">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonpanna&layout=compact&show_icons=true&show_owner=true&hide_title=true&exclude_repo=visiblehand,programmers" />
-  </a>
 </p>
